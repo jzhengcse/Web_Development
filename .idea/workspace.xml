@@ -4,7 +4,6 @@
     <list default="true" id="9f9cb496-8954-4e92-a5fb-6a6b1338a195" name="Default" comment="it">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/32_NodeJS/7_YelpCamp/v11Deployed" afterPath="$PROJECT_DIR$/32_NodeJS/7_YelpCamp/v11Deployed" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/32_NodeJS/7_YelpCamp/v12" afterPath="$PROJECT_DIR$/32_NodeJS/7_YelpCamp/v12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="07388275-4e5d-44e5-a482-7e187ed4b5e3" name="remove modules" comment="" />
     <ignored mask="node_modules" />
@@ -387,7 +386,7 @@
       <workItem from="1509386538461" duration="2282000" />
       <workItem from="1509393413519" duration="1586000" />
       <workItem from="1509395083622" duration="663000" />
-      <workItem from="1509395895565" duration="2721000" />
+      <workItem from="1509395895565" duration="2894000" />
     </task>
     <task id="LOCAL-00001" summary="course progress">
       <created>1502205803159</created>
@@ -435,7 +434,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11875000" />
+    <option name="totallyTimeSpent" value="12048000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
